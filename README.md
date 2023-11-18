@@ -18,7 +18,7 @@ images that are passed to it and in turn will provide a means to classify the en
 <img width="500" alt="Screenshot 2023-11-18 at 6 34 42 PM" src="https://github.com/carlosmacias1212/Semi-Supervised-K-means/assets/68452096/9e744952-b754-45e6-861b-d6055d50158c">
 
 10000 Constrains
-<img width="500" alt="Screenshot 2023-11-18 at 6 36 07 PM" src="https://github.com/carlosmacias1212/Semi-Supervised-K-means/assets/68452096/e5462c42-7244-4228-889c-bc0af1b12c39">
+<img width="600" alt="Screenshot 2023-11-18 at 6 36 07 PM" src="https://github.com/carlosmacias1212/Semi-Supervised-K-means/assets/68452096/e5462c42-7244-4228-889c-bc0af1b12c39">
 
 100000 Constraints
 <img width="500" alt="Screenshot 2023-11-18 at 6 36 54 PM" src="https://github.com/carlosmacias1212/Semi-Supervised-K-means/assets/68452096/224f07d2-00df-4d7e-b45f-4e0e55308b8c">
