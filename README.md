@@ -12,13 +12,13 @@ images that are passed to it and in turn will provide a means to classify the en
 
 ## Once you have implemented the k sets() and summarize set(constraint) functions, as discussed in the previous two questions, try running k-means clustering with 100 random “must-link” constraints. Include a picture of the 10 found clusters. Do similarly with 1,000 constraints, 10,000 constraints and 100,000 constraints (include a picture of the resulting clusters in each case). Do the 10 clusters found tend to become the 10 expected digits as you increase the number of “must-link” constraints? You may want to try multiple random number seeds, to see the effect of different runs.
 100 Constraints
-<img width="392" alt="Screenshot 2023-11-18 at 6 32 14 PM" src="https://github.com/carlosmacias1212/Semi-Supervised-K-means/assets/68452096/b6a76c45-618b-401b-ab42-8a8961a78ce9">
+<img width="500" alt="Screenshot 2023-11-18 at 6 32 14 PM" src="https://github.com/carlosmacias1212/Semi-Supervised-K-means/assets/68452096/b6a76c45-618b-401b-ab42-8a8961a78ce9">
 
 1000 Constraints
-<img width="627" alt="Screenshot 2023-11-18 at 6 34 42 PM" src="https://github.com/carlosmacias1212/Semi-Supervised-K-means/assets/68452096/9e744952-b754-45e6-861b-d6055d50158c">
+<img width="500" alt="Screenshot 2023-11-18 at 6 34 42 PM" src="https://github.com/carlosmacias1212/Semi-Supervised-K-means/assets/68452096/9e744952-b754-45e6-861b-d6055d50158c">
 
 10000 Constrains
-<img width="822" alt="Screenshot 2023-11-18 at 6 36 07 PM" src="https://github.com/carlosmacias1212/Semi-Supervised-K-means/assets/68452096/e5462c42-7244-4228-889c-bc0af1b12c39">
+<img width="500" alt="Screenshot 2023-11-18 at 6 36 07 PM" src="https://github.com/carlosmacias1212/Semi-Supervised-K-means/assets/68452096/e5462c42-7244-4228-889c-bc0af1b12c39">
 
 100000 Constraints
-<img width="660" alt="Screenshot 2023-11-18 at 6 36 54 PM" src="https://github.com/carlosmacias1212/Semi-Supervised-K-means/assets/68452096/224f07d2-00df-4d7e-b45f-4e0e55308b8c">
+<img width="500" alt="Screenshot 2023-11-18 at 6 36 54 PM" src="https://github.com/carlosmacias1212/Semi-Supervised-K-means/assets/68452096/224f07d2-00df-4d7e-b45f-4e0e55308b8c">
